@@ -1,0 +1,8 @@
+data/obj/20000034005_0vehicle_lp.png
+data/obj/20000051392_0vehicle_lp.png
+data/obj/20000067344_0vehicle_lp.png
+data/obj/20000119540_0vehicle_lp.png
+data/obj/20000156716_0vehicle_lp.png
+data/obj/20000211381_0vehicle_lp.png
+data/obj/20000217116_0vehicle_lp.png
+data/obj/20000309475_1vehicle_lp.png
